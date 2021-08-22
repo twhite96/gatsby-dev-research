@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: `/gatsby-dev-research`,
+  pathPrefix: '',
   siteMetadata: {
-    title: `Foam`,
+    title: `tiff's notes`,
   },
   plugins: [
     {

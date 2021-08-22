@@ -1,4 +1,4 @@
-# Dev Research
+# tiff's notes
 
 > You know what I like more than these materialistic things? **Knowledge**.
 > 
