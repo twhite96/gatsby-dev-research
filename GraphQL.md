@@ -1,6 +1,0 @@
-# GraphQL Course
-
-(Coming soon)
-
-
-

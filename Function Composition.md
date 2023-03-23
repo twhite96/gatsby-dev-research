@@ -1,2 +1,0 @@
-# Function composition in programming 
-
