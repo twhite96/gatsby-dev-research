@@ -1,2 +1,0 @@
-# Mathematical Composite Functions
-
