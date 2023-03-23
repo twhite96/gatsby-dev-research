@@ -30,7 +30,7 @@ You can jump around the site using the *Wiki links* below.
 - [[Dev Blogs]]
 
 ## Math/Programming Explorations
-> Progamming has made me better at math. So now I want to explore the connection betweeen math and programming.
+> Programming has made me better at math. So now I want to explore the connection betweeen math and programming.
 
 - [[Mathematical Composite Functions]]
 - [[Function Composition]]
