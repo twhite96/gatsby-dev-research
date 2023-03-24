@@ -56,3 +56,5 @@ Temporary Items
 
 
 .vscode/
+
+.github copy 2/workflows/deploy-foam.yml
