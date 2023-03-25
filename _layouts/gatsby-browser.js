@@ -2,5 +2,5 @@ import "@fontsource/source-sans-pro" // Defaults to weight 400 with all styles i
 import "@fontsource/bree-serif" // Defaults to weight 400 with all styles included.
 import "@fontsource/fira-code" // Defaults to weight 400 with all styles included.
 import "@fontsource/inter" // Defaults to weight 400 with all styles included.
-import "./static/styles.css"
-import './static/laserwave.css'
+import "./static/css/styles.css"
+import "./static/css/laserwave.css" 
