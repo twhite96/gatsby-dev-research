@@ -23,8 +23,8 @@ const headComponents = [
       crossorigin='anonymous'
       referrerpolicy='no-referrer'
     />
-    <link rel='stylesheet' href='./assets/css/styles.css' key='custom' />,
-    <link rel='stylesheet' href='./assets/css/laserwave.css' key='custom' />,
+    <link rel='stylesheet' href='./assets/css/styles.css' />,
+    <link rel='stylesheet' href='./assets/css/laserwave.css' />,
     <link
       rel='shortcut icon'
       href='images/favicon.svg'
