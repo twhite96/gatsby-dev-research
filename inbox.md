@@ -1,4 +1,4 @@
-# tiff's notes
+# tiff's notes 🗒
 
 Hey! 👋🏽 I'm tiff, and these are my notes, basically unformed and unorganized, on software.
 
