@@ -1,6 +1,4 @@
----
-aliases: [Mathematical Composite Functions, composite function in math]
----
+# Advanced JavaScript
 
 # About Promises
 
@@ -27,7 +25,7 @@ https://xstate.js.org/docs/
 
 ## Iterables
 
-Some things to think about when comparing languages and how learning one can help you better understand another, in this case, how [[Iterators in Python|iterators in Python]] have helped me understand how to use [[Iterators in Python#^88dd30|iterables]] in JavaScript
+Some things to think about when comparing languages and how learning one can help you better understand another, in this case, how [[Iterators in Python|iterators in Python]] have helped me understand how to use [[Iterators in Python|iterables]] in JavaScript
 
 ## Async/Await
 
