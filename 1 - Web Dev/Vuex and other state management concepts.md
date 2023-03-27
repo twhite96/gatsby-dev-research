@@ -22,4 +22,4 @@ However, the simplicity quickly breaks down when we have **multiple components 
 -   Multiple views may depend on the same piece of state.
 -   Actions from different views may need to mutate the same piece of state.
 
-For problem one, [[1 - Web Dev/Prop Drilling#What is prop drilling?]]. For problem two, we often find ourselves resorting to solutions such as reaching for direct parent/child instance references or trying to mutate and synchronize multiple copies of the state via events. Both of these patterns are brittle and quickly lead to unmaintainable code.
+For problem one, [[Prop Drilling#What is prop drilling?]]. For problem two, we often find ourselves resorting to solutions such as reaching for direct parent/child instance references or trying to mutate and synchronize multiple copies of the state via events. Both of these patterns are brittle and quickly lead to unmaintainable code.

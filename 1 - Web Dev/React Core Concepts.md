@@ -13,6 +13,6 @@ class App extends React.Component {
 
 ## Types of components
 
-One of the most common types of components you'll see are [[1 - Web Dev/React Forms]].
+One of the most common types of components you'll see are [[React Forms]].
 
 

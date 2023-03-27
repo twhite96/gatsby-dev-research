@@ -21,6 +21,6 @@ function SwitchButton({onToggle}) {
   return <button onClick={onToggle}>Toggle</button>
 }
 ```
-> This is [[1 - Web Dev/Prop Drilling]]. To get the on state and toggle handler to the right places, we have to drill (or thread) props through the Switch component. The Switch component itself doesn't actually need those values to function, but we have to accept and forward those props because its children need them.
+> This is [[Prop Drilling]]. To get the on state and toggle handler to the right places, we have to drill (or thread) props through the Switch component. The Switch component itself doesn't actually need those values to function, but we have to accept and forward those props because its children need them.
 
 **Source**: [[Prop Drilling]] by [Kent C Dodds](https://kentcdodds.com/blog/prop-drilling#what-is-prop-drilling)

@@ -18,7 +18,7 @@ A refresher for intermediate React engineers.
 - Way to get data from component to component
   - *State*: The home
   - *Props* a bus to get your state from component to component
-  - Props -> object of data that got passed into a component [[1 - Web Dev/object properties]]
+  - Props -> object of data that got passed into a component [[object properties]]
 
 ```jsx
 class App extends React.Component {

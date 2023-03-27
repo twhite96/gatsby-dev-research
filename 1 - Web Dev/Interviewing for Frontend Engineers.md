@@ -1,4 +1,4 @@
-- [Inital phone screen](#inital-phone-screen)
+- [Initial phone screen](#inital-phone-screen)
 - [Coding without a computer](#coding-without-a-computer)
 - [Before you apply](#before-you-apply)
 - [Resume](#resume)
@@ -14,7 +14,7 @@
 - [On-site interviews](#on-site-interviews)
   - [On-site questions](#on-site-questions)
 - [Arrays](#arrays)
-## Inital phone screen
+## Initial phone screen
 - Prepping for phone screens
   - What do you do
   - Recent projects
@@ -91,7 +91,7 @@ Hoisting of var
   - try to use a let variable before declaration get a Reference Error
 - const cannot be updated or re-declared
 - const object cannot be updated
-  - properties of objects can be updatedconst object as this:
+  - properties of objects can be updated const object as this:
   - cannot do this:
 
 ```js
@@ -194,9 +194,9 @@ function search(arr, num) {
 
 
 - `createDocumentFragment()` for appending more than once
-  - constantly rendering to the DOM with multiple `appendChild()` has perfomance implications
+  - constantly rendering to the DOM with multiple `appendChild()` has performance implications
 
-- extracting the `target` event from the DOM and using `childNodeRemove` is [[1 - Web Dev/Event Delegation]]
+- extracting the `target` event from the DOM and using `childNodeRemove` is [[Event Delegation]]
 
 ## On-site interviews
 
@@ -228,4 +228,4 @@ function reverse(str) {
 - `[...item]`
   - Spreads items into an array
 
-> See also: [[1 - Web Dev/Basic Data Structures and Algorithms]]
+> See also: [[Basic Data Structures and Algorithms]]
