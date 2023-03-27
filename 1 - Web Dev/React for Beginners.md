@@ -1,4 +1,4 @@
-*For core concepts see* [[1 - Web Dev/React Core Concepts]]
+*For core concepts see* [[React Core Concepts]]
 
 
 A refresher for intermediate React engineers.

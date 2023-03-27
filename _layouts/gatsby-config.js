@@ -4,6 +4,7 @@ module.exports = {
     title: `tiff's notes`,
   },
   plugins: [
+    `gatsby-remark-auto-headers-improved`,
     {
       resolve: `gatsby-theme-garden`,
       options: {

@@ -1,3 +1,5 @@
+# Children Prop
+
 Take some content, wrap it in a component that has a style or whatever you want, and in the wrapper component, pass in `this.props.children`. This will pass down any styles or JavaScript that you want into the child components.
 
 ex:

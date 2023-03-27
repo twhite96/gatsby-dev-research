@@ -9,6 +9,7 @@
     "@fontsource/inter": "^4.5.0",
     "@fontsource/source-sans-pro": "^4.5.0",
     "gatsby": "^2.23.18",
+    "gatsby-remark-auto-headers-improved": "^1.0.4",
     "gatsby-remark-prismjs": "3.3.20",
     "gatsby-theme-garden": "^0.1.28",
     "gatsby-transformer-remark": "2.6.48",

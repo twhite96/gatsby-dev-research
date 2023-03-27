@@ -1,4 +1,4 @@
-What are [[1 - Web Dev/Controlled Components]]?
+What are [[Controlled Components]]?
 
 
 

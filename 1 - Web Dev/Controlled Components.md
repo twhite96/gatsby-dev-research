@@ -1,3 +1,5 @@
+# Controlled Components
+
 JS function that:
 - handles submission of the form *and*
 - has access to the data the user entered
@@ -49,6 +51,6 @@ class Form extends React.Component {
 export default Form;
 ```
 
-We can handle [[1 - Web Dev/Multiple Form Inputs]] by giving each input a `name` prop.
+We can handle [[Multiple Form Inputs]] by giving each input a `name` prop.
 
 
