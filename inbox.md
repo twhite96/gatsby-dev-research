@@ -13,6 +13,7 @@ Hey! 👋🏽 I'm tiff, and these are my notes, basically unformed and unorganiz
 - [[Asymptotic Analysis]]
 - [[Basic Data Structures and Algorithms]]
 - [[Basic JavaScript]]
+- [[Iterators in Python]]
 
 ## Books
 
