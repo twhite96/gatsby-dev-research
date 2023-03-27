@@ -1,4 +1,6 @@
-- [Testing React Applications](#testing-react-applications)
+# Testing React Apps
+
+- [Testing React Apps](#testing-react-apps)
   - [Different types of Testing](#different-types-of-testing)
 
 ## Different types of Testing

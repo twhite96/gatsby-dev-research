@@ -1,4 +1,7 @@
-# Functions in math
+# Mathematical Composite Functions
+
+## Functions in math
+
 [What is a Function](https://www.mathsisfun.com/sets/function.html)
 
 A function relates an input to an output.
@@ -24,5 +27,4 @@ We will see many ways to think about functions, but there are always three main 
 [Domain, Range and Codomain](https://www.mathsisfun.com/sets/domain-range-codomain.html)
 
 ## Function composition in math
-[Composition of Functions](https://www.mathsisfun.com/sets/functions-composition.html) ^a75ee8
-
+[Composition of Functions](https://www.mathsisfun.com/sets/functions-composition.html)

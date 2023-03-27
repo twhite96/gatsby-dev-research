@@ -1,6 +1,4 @@
----
-aliases: [Two-Way Data binding, the opposite of which is 2-way data binding]
----
+# Two Way Data Binding
 
 Some interesting tidbits
 

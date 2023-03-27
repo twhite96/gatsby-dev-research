@@ -1,22 +1,19 @@
-- [[#Inital phone screen|Inital phone screen]]
-- [[#Coding without a computer|Coding without a computer]]
-- [[#Before you apply|Before you apply]]
-- [[#Resume|Resume]]
-- [[#Experience|Experience]]
-- [[#To prepare|To prepare]]
-- [[#Prescreen|Prescreen]]
-- [[#Code test|Code test]]
-- [[#Big-O|Big-O]]
-	- [[#Big-O#Big Theta|Big Theta]]
-	- [[#Big-O#Big Omega|Big Omega]]
-- [[#Phone screen|Phone screen]]
-	- [[#Phone screen#Phone screen problems|Phone screen problems]]
-- [[#On-site interviews|On-site interviews]]
-	- [[#On-site interviews#On-site questions|On-site questions]]
-- [[#Arrays|Arrays]]
-
-
-
+- [Inital phone screen](#inital-phone-screen)
+- [Coding without a computer](#coding-without-a-computer)
+- [Before you apply](#before-you-apply)
+- [Resume](#resume)
+- [Experience](#experience)
+- [To prepare](#to-prepare)
+- [Prescreen](#prescreen)
+- [Code test](#code-test)
+- [Big-O](#big-o)
+  - [Big Theta](#big-theta)
+  - [Big Omega](#big-omega)
+- [Phone screen](#phone-screen)
+  - [Phone screen problems](#phone-screen-problems)
+- [On-site interviews](#on-site-interviews)
+  - [On-site questions](#on-site-questions)
+- [Arrays](#arrays)
 ## Inital phone screen
 - Prepping for phone screens
   - What do you do

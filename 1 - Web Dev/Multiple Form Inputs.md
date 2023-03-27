@@ -1,3 +1,5 @@
+# Multiple Form Inputs
+
 *Must use `name` prop and make sure that the `name` prop matches the what we're putting in state*.
 
 ```js
