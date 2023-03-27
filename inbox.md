@@ -8,6 +8,12 @@ Hey! 👋🏽 I'm tiff, and these are my notes, basically unformed and unorganiz
 - [[Interviewing for Frontend Engineers]]
 - [[Advanced React]]
 
+## Random thoughts on things I'm reading or thinking about
+- [[Advanced JavaScript]]
+- [[Asymptotic Analysis]]
+- [[Basic Data Structures and Algorithms]]
+- [[Basic JavaScript]]
+
 ## Books
 
 - [[The Web API Design Guidelines for Happy Developers]]
