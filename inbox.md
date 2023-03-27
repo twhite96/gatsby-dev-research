@@ -2,6 +2,12 @@
 
 Hey! 👋🏽 I'm tiff, and these are my notes, basically unformed and unorganized, on software.
 
+## Courses I've taken
+
+- [[React for Beginners]]
+- [[Interviewing for Frontend Engineers]]
+- [[Advanced React]]
+
 ## Books
 
 - [[The Web API Design Guidelines for Happy Developers]]
