@@ -8,7 +8,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        rootNote: "/index",
+        rootNote: "/inbox",
         parseWikiLinks: true,
         contentPath: `${__dirname}/..`,
         ignore: [

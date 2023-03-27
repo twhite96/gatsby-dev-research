@@ -19,7 +19,7 @@ You can jump around the site using the *Wiki links* below.
 - [[Testing React Apps]]
 - [[Redux]]
 
-<!-- ## Books
+## Books
 
 - [[The Web API Design Guidelines for Happy Developers]]
 
@@ -46,7 +46,7 @@ You can jump around the site using the *Wiki links* below.
 
 
 
- -->
+
 
 
 
