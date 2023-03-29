@@ -6,6 +6,12 @@ module.exports = {
   plugins: [
     `gatsby-remark-auto-headers-improved`,
     {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: `tiffnotes.dev`,
+      },
+    },
+    {
       resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/inbox",
