@@ -1,7 +1,9 @@
 module.exports = {
   pathPrefix: "",
   siteMetadata: {
-    title: `tiff's notes 🗒`,
+    title: `@tiff's working notes`,
+    author: `tiff`,
+    description: `a collection of working notes on software engineering`
   },
   plugins: [
     `gatsby-remark-auto-headers-improved`,
